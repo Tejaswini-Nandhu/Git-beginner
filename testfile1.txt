@@ -1,0 +1,11 @@
+Welcome to git 
+these are the technologies I know so far
+Python 
+Django
+ Linux
+ Git 
+Docker
+ CI/CD
+ Kubernetes
+ AWS
+ Ansible
