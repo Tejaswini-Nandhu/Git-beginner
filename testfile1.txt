@@ -9,3 +9,5 @@ Docker
  Kubernetes
  AWS
  Ansible
+
+ All these technologies are much useful for devops engineers
